@@ -1,0 +1,10 @@
+{
+  "name": "reading-react-compiler",
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.11.0",
+  "author": "Rintaro Itokawa <me@re-taro.dev> (https://re-taro.dev)",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
